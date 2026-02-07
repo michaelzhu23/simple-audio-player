@@ -1,8 +1,8 @@
 # Simple Audio Player
 
-### Screenshot
-
 Live site: https://audio-player.themichaelzhu.com/
+
+### Screenshot
 
 ![Screenshot of app](public/images/app-screenshot.JPG)
 
